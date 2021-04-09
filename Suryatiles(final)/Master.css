@@ -1,0 +1,154 @@
+﻿
+
+.wrapper {
+    padding: 0px;
+    background:url(images/main_bg0.jpg) center top no-repeat
+}
+#wrapper {
+    position: relative;
+    margin: 0 auto;
+    width: 960px;
+    padding: 10px 12px;
+   /* background:url(images/main_bg0.jpg)  repeat-y center */
+}
+
+.header {
+    width: 940px;
+    height: 71px;
+    padding: 15px 10px;
+    margin-bottom: 2px;
+    background: url(images/header_b.jpg)
+}
+.footer {
+    width: 940px;
+    height: 51px;
+    padding: 25px 10px;
+    margin-bottom: 10px;
+    background: url(images/header_b.jpg);
+    text-decoration:none;
+    
+}
+.footer {
+    width: 940px;
+    height: 51px;
+    padding: 25px 10px;
+    margin-bottom: 10px;
+    background: url(images/header_b.jpg);
+    text-decoration:none;
+    
+}
+.footer a{
+    text-decoration:none;
+}
+#footer_wrapper {
+    clear: both;
+    background: #eaeaea;
+    border-top: 5px solid #fff;
+    padding: 20px 0;
+    width: 100%;
+}
+
+#footer {
+    width: 940px;
+    padding: 0  22px;
+    margin: 0 auto;
+    
+}
+
+.logo { 
+    float: left; 
+}
+.left { float:left }
+.right { float:right }
+.leftmenu
+{
+    width: 300px;
+    margin-right:0px;
+    float:left;
+    min-height:1100px;
+}
+.rightmenu
+{
+   width:640px;
+  float:right;
+   min-height:1100px;
+}
+ .maindiv
+ {
+   width:940px;
+   margin-top: 2px;
+   margin-bottom:5px;
+   min-height:1100px;
+  
+   }
+    .tablefont
+   {
+    color: #94165B; 
+   }
+
+/*for Product Range*/
+.left_box1
+{
+    border:#EA60AB 1px solid;
+    background:#FADEEA;
+    min-height:250px;
+    width:240px;
+    -moz-border-radius:10px;
+   border-radius:10px;
+
+
+}
+.height_5px
+{
+    height:5px;
+}
+.tmo_ul_list
+{
+    margin:10px 0 10px 15px;
+    padding:0;
+    list-style:none;
+}
+.tmo_ul_list li
+{
+    color:#666;
+    margin:0 0 10px 0;
+    padding:0px 0 0px 30px;
+    background : url(../images/list.png) no-repeat scroll 0 3px;
+}
+.tmo_ul_list li a
+{
+    color:#666;
+    font-weight:normal;
+    font-size:13px;
+    text-decoration:none;
+ }
+ .tmo_ul_list li a:hover
+ {
+     color:#666;
+ }
+ 
+/*For Contact Us*/
+.contact_home_box
+{
+    padding:10px;
+    background:url(../images/ContactUsBackground.gif) center left;
+    color:#000000;
+    padding-left:30px;
+    height:300px;
+    width:220px;
+}
+.contact_small_line
+{
+    height:1px;
+    background:#A44219;
+    width:170px;
+}
+.head_text
+{
+    font-size:18px;
+    margin-bottom:5px;    
+}
+.cleaner
+{
+    clear:both;
+}
